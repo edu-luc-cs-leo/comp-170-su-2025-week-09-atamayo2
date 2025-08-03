@@ -92,3 +92,9 @@ print(count_occurrences(my_list, 2))
 print(count_occurrences(my_list, 5))   
 print(count_occurrences(my_list, 22))  
 print(count_occurrences(my_list, 99))  
+
+
+# Reflection- 
+# i was not able to submit homework 8 last week so i do not have a reflection on it. However i did struggle
+# a bit when trying to write the code. I was not getting the right outcome which kept having me
+# erase and start over. I did it very last minute so i definitely should have given myself more time on it.
